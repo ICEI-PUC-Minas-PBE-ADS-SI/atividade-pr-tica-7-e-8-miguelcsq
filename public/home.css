@@ -43,10 +43,8 @@ img {
 
 .footer {
   background-color: #c94f1a;
-  height: 50px;
   color: white;
   text-align: center;
-  padding-top: 30px;
 }
 
 .container {
@@ -61,13 +59,14 @@ img {
 }
 
 .card {
-  padding: 16px;
+  padding: 1rem;
   align-items: center;
   margin-top: 15px;
-  display: flex;
-  flex-direction: row ;
+  display: inline-block;
+  width: 35rem;
+  margin-right: 20px;
+  margin-left: 20px;
 }
-
 
 .preparo {
   width: 500px;
@@ -118,7 +117,7 @@ ul {
   transition: transform 200ms ease-in-out;
 }
 
-button{
+button {
   border: none;
   text-decoration: none;
   background-color: #c94f1a;
@@ -127,10 +126,10 @@ button{
   font-size: 20px;
   cursor: pointer;
   transition: transform 200ms ease-in-out;
- 
+  border-radius: 30px;
 }
 
-a {
+a.button {
   border: none;
   margin-top: 15px;
   text-decoration: none;
@@ -159,14 +158,21 @@ button:hover {
   font-weight: 800;
   text-decoration: none;
   color: white;
+
 }
 
 .alinhamento {
   display: flex;
-  gap: 10px ;
+  gap: 10px;
   margin: 20px;
 }
 
+.container {
+  display: flex;
+}
 
-
+.row {
+  display: flex;
+  flex-direction: row;
+}
 
