@@ -12,9 +12,9 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Miguel Campos Soares Querino 
+- Matricula: 882253
+- Proposta de projeto escolhida: Diretorio de receitas
 - Breve descrição sobre seu projeto:
 
 ## Print da versão responsiva com CSS puro
@@ -23,4 +23,4 @@ Leia o enunciado completo no Canvas.
 
 ## Print da versão responsiva com Bootstrap
 
-<< COLOQUE A IMAGEM AQUI >>
+<< ![alt text](public/printreceita.png) >>
